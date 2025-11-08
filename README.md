@@ -13,3 +13,5 @@ Si vous êtes sous Linux, il faut désactiver le pilote des webcams OV519, c'est
 Le script `IPU.sh` efface juste les 16 premiers octets des fichiers et ajoute l'extensions `.ipu`. Il faut le rendre exécutable et il s'occupe des fichiers dans le dossier courant.
 
 Pour décoder les images `.ipu`, vous aurez besoin de https://github.com/samehb/IPUDecoder et https://github.com/samehb/IPUDecoderGUI (sous Windows).
+
+L'image [sample.png](https://github.com/Dandumontp/EyeToy-et-MPEG/blob/main/sample.png) est un exemple de résultat.
